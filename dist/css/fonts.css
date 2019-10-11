@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?ivqenf');
+  src:  url('../fonts/icomoon.eot?ivqenf#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?ivqenf') format('truetype'),
+    url('../fonts/icomoon.woff?ivqenf') format('woff'),
+    url('../fonts/icomoon.svg?ivqenf#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-plus:before {
+  content: "\f067";
+}
+.icon-minus:before {
+  content: "\f068";
+}
+.icon-heart:before {
+  content: "\f004";
+}
+.icon-check:before {
+  content: "\f00c";
+}
+.icon-pencil:before {
+  content: "\f040";
+}
+.icon-fire:before {
+  content: "\f06d";
+}
+.icon-eye:before {
+  content: "\f06e";
+}
+.icon-comment:before {
+  content: "\f075";
+}
+.icon-twitter:before {
+  content: "\f099";
+}
+.icon-bars:before {
+  content: "\f0c9";
+}
+.icon-navicon:before {
+  content: "\f0c9";
+}
+.icon-reorder:before {
+  content: "\f0c9";
+}
+.icon-google-plus:before {
+  content: "\f0d5";
+}
+.icon-angle-left:before {
+  content: "\f104";
+}
+.icon-angle-right:before {
+  content: "\f105";
+}
+.icon-angle-up:before {
+  content: "\f106";
+}
+.icon-angle-down:before {
+  content: "\f107";
+}
+.icon-laptop:before {
+  content: "\f109";
+}
+.icon-code:before {
+  content: "\f121";
+}
+.icon-html5:before {
+  content: "\f13b";
+}
+.icon-check-square:before {
+  content: "\f14a";
+}
+.icon-wordpress:before {
+  content: "\f19a";
+}
+.icon-pinterest-p:before {
+  content: "\f231";
+}
+.icon-mobile2:before {
+  content: "\e959";
+}
+.icon-user-tie:before {
+  content: "\e976";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
